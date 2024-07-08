@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SayitoYazi\SayitoYazi\bin\Debug\SayitoYazi.exe.config
+C:\Users\user\source\repos\SayitoYazi\SayitoYazi\bin\Debug\SayitoYazi.exe
+C:\Users\user\source\repos\SayitoYazi\SayitoYazi\bin\Debug\SayitoYazi.pdb
+C:\Users\user\source\repos\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.exe
+C:\Users\user\source\repos\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.pdb
