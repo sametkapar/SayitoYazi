@@ -5,3 +5,10 @@ C:\Users\user\source\repos\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.csproj.Ass
 C:\Users\user\source\repos\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.exe
 C:\Users\user\source\repos\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.pdb
+C:\Users\Skapar\Documents\GitHub\SayitoYazi\SayitoYazi\bin\Debug\SayitoYazi.exe.config
+C:\Users\Skapar\Documents\GitHub\SayitoYazi\SayitoYazi\bin\Debug\SayitoYazi.exe
+C:\Users\Skapar\Documents\GitHub\SayitoYazi\SayitoYazi\bin\Debug\SayitoYazi.pdb
+C:\Users\Skapar\Documents\GitHub\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.csproj.AssemblyReference.cache
+C:\Users\Skapar\Documents\GitHub\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\Documents\GitHub\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.exe
+C:\Users\Skapar\Documents\GitHub\SayitoYazi\SayitoYazi\obj\Debug\SayitoYazi.pdb

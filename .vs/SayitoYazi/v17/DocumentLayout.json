@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Skapar\\Documents\\GitHub\\SayitoYazi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6176D649-2962-4181-97F6-3B3879BE3386}|SayitoYazi\\SayitoYazi.csproj|c:\\users\\skapar\\documents\\github\\sayitoyazi\\sayitoyazi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6176D649-2962-4181-97F6-3B3879BE3386}|SayitoYazi\\SayitoYazi.csproj|solutionrelative:sayitoyazi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Skapar\\Documents\\GitHub\\SayitoYazi\\SayitoYazi\\Program.cs",
+              "RelativeDocumentMoniker": "SayitoYazi\\Program.cs",
+              "ToolTip": "C:\\Users\\Skapar\\Documents\\GitHub\\SayitoYazi\\SayitoYazi\\Program.cs",
+              "RelativeToolTip": "SayitoYazi\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:22:52.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
